@@ -1,5 +1,13 @@
 # The Kitchen Sink Studio
 
+Useful links:
+- Studio: https://oxo-innovation-demo-studio.netlify.app/desk
+- Site: https://oxo-innovation-demo.netlify.app/
+- Repo: https://github.com/AlexChalk/oxo-innovation-demo
+- Management console: https://manage.sanity.io/projects/fjqk350y
+- Netlify: https://app.netlify.com/sites/oxo-innovation-demo
+- Studio Netlify: https://app.netlify.com/sites/oxo-innovation-demo-studio/overview
+
 A “[kitchen sink](https://stackoverflow.com/questions/33779296/what-is-exact-meaning-of-kitchen-sink-in-programming)” is a showcase of APIs and functionality. This is the example project that we at Sanity HQ use for demos. Hence, it will change and evolve over time with new feature releases.
 
 This starter is great for demo purposes, either to evaluate Sanity for your own use, or when you want to offer it as part of a project for your clients.
